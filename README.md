@@ -37,4 +37,4 @@ Welcome to Typing Monk v2.04! This version introduces exciting new features and 
 ---
 
 ## Created By
-- 👨‍💻 Prince-GH
+- 👨‍💻 Arshpreet-bit
